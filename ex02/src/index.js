@@ -1,8 +1,8 @@
 function main() {
     // Only change code below this line
-    // This is one line comment
-    /* This is multiple
-        line comment */
+    // This is comment in one line
+    /* This is comment in
+        multiple lines */
     // Only change code above this line
     
 }
